@@ -2,9 +2,7 @@
 Computer Science Student at <a style="text-decoration:none" href="https://www2.ufjf.br/ufjf/" style="text-decoration:none">Universidade Federal de Juiz de Fora</a><br><br>
 Here are some of my hobbies and interests: :running::sweat_drops::meat_on_bone::pineapple::watermelon::sleeping::books::video_game::musical_keyboard::guitar::seedling::evergreen_tree::sunrise:<br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=fernandogiardini&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=fernandogiardini&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" />
-</a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true" />
 </a>
