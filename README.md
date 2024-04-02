@@ -1,12 +1,23 @@
 ### Hi there, I'm Fernando Giardini! :computer::iphone::mortar_board::earth_americas:
-Computer Science Student at <a style="text-decoration:none" href="https://www2.ufjf.br/ufjf/" style="text-decoration:none">Universidade Federal de Juiz de Fora</a><br><br>
-Here are some of my hobbies and interests: :running::sweat_drops::meat_on_bone::pineapple::watermelon::sleeping::books::video_game::musical_keyboard::guitar::seedling::evergreen_tree::sunrise:<br>
+Computer Science Student at <a style="text-decoration:none" href="https://www2.ufjf.br/ufjf/" style="text-decoration:none">Universidade Federal de Juiz de Fora</a><br>
+
+I'm currently working on/studying:<br> 
+<li>Artificial Intelligence and Machine Learning | Python.
+<li>Computer Graphics | C++ and Vulkan.
+
+I have experience with:<br>
+<li>Business Intelligence | Microsoft Power BI.
+<li>Web development | HTML5, CSS, and Javascript (react.js/next.js frameworks).
+<li>Android development | Kotlin.
+
+Here are some of my hobbies and interests: <br> 
+:running::sweat_drops::meat_on_bone::pineapple::watermelon::sleeping::books::video_game::musical_keyboard::guitar::seedling::evergreen_tree::sunrise:<br>
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true" />
 </a>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
   <img align="center" alt="Fernando-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
