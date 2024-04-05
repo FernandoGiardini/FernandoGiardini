@@ -6,7 +6,7 @@ I'm currently working on/studying:<br>
 <li>Computer Graphics | C++ and Vulkan.
 
 I have experience with:<br>
-<li>Business Intelligence | Microsoft Power BI.
+<li>Business Intelligence | Microsoft Power BI and Python.
 <li>Web development | HTML5, CSS, and Javascript (react.js/next.js frameworks).
 <li>Android development | Kotlin.
 
