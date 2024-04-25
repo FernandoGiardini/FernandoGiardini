@@ -16,7 +16,7 @@ Here are some of my hobbies and interests: <br>
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true">
-  <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=donut&theme=transparent&hide_border=true" />
+  <img height="255em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=donut&theme=transparent&hide_border=true" />
 </a>
 
 And here are some of the tools I use or have used before: 
