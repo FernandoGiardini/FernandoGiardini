@@ -15,8 +15,8 @@ Here are some of my hobbies and interests: <br>
 :running::sweat_drops::meat_on_bone::pineapple::watermelon::sleeping::books::video_game::musical_keyboard::guitar::seedling::evergreen_tree::sunrise:<br>
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true">
-  <img height="255em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=donut&theme=transparent&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=compact&theme=transparent&hide_border=true&hide=&hide=jupyter%20notebook,css,html,cmake">
+  <img height="255em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogiardini&layout=donut&theme=transparent&hide_border=true&hide=jupyter%20notebook,css,html,cmake" />
 </a>
 
 And here are some of the tools I use or have used before: 
