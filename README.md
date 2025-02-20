@@ -2,7 +2,6 @@
 Computer Science Student at <a style="text-decoration:none" href="https://www2.ufjf.br/ufjf/" style="text-decoration:none">Universidade Federal de Juiz de Fora</a><br>
 
 I'm currently working on/studying:<br> 
-<li>Artificial Intelligence and Machine Learning | Python.
 <li>Computer Graphics | C++, OpenGL and Vulkan.
 
 I have experience with:<br>
