@@ -8,7 +8,7 @@ I have experience with:<br>
 <li>Business Intelligence | Microsoft Power BI and Python.
 <li>Web development | HTML5, CSS, and Javascript (+ some of it´s frameworks).
 <li>Android development | Kotlin and Android Studio.
-<li>Graphic Design | Figma, Illustrator and Photoshop.
+<li>Graphic Design for Apps | Figma, Illustrator and Photoshop.
 
 Here are some of my hobbies and interests: <br> 
 :running::sweat_drops::meat_on_bone::pineapple::watermelon::sleeping::books::video_game::musical_keyboard::guitar::seedling::evergreen_tree::sunrise:<br>
