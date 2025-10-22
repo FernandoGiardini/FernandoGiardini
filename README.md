@@ -2,7 +2,7 @@
 Computer Science Student at <a style="text-decoration:none" href="https://www2.ufjf.br/ufjf/" style="text-decoration:none">Universidade Federal de Juiz de Fora</a><br>
 
 I'm currently working on/studying:<br> 
-<li>Backend Development | Java.
+<li>Backend Development | Node.js, Java.
 
 I have experience with:<br>
 <li>Business Intelligence | Microsoft Power BI and Python.
